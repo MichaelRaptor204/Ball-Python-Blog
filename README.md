@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<html>
+<head><h1>Ball Pythons By J.M Raptor</h1></head>
+<Body>
+<h2>I'm Michael and this is a blog about my pet Ball Python, Fox.
+<h/2>
+<br>
+<h2> There's a total of 3 snakes in my house. Fox, the male baby
+Ball python. Felicia the female Baby Ball Python. And of course,
+the mean little Dan, the male Baby Mexican Hognose. </h2>
+<br>
+<h2>This is Fox, My pet Ball Python. The 2 other snakes mentioned 
+belong to my brother. So this blog is centered around Fox.</h2>
+<input name="Image1" type="image" alt="Fox the Ball Python" height="359" src="file:///C:/Users/angie_000/Pictures/Roblox/Snek/Fox.JPG" width="342" />
 
-You can use the [editor on GitHub](https://github.com/MichaelRaptor204/Ball-Python-Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p></p>
+<h1>  </h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</body>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MichaelRaptor204/Ball-Python-Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
