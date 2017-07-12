@@ -10,17 +10,13 @@ the mean little Dan, the male Baby Mexican Hognose. </h2>
 <br>
 <h2>This is Fox, My pet Ball Python. The 2 other snakes mentioned 
 belong to my brother. So this blog is centered around Fox.</h2>
-<input name="Image1" type="image" alt="Fox the Ball Python" height="359" src="file:///C:/Users/angie_000/Pictures/Roblox/Snek/Fox.JPG" width="342" />
+<br>
+<h2>Fox was born March 2017. The day I'm writing this is July 11th,
+2017. He currently weighs 112 grams. And lives in a small container.
+</h2>
 
 <p></p>
 <h1>  </h1>
 
 </body>
 
-
-
-
-
-
-
-</html>
